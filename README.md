@@ -66,6 +66,8 @@
 ## About The Project
 
 ![photo_2021-11-11_15-55-47](https://user-images.githubusercontent.com/86077011/141289087-3c61eafe-f629-4a8e-b2fc-a46e360007e5.jpg)
+![photo_2021-11-11_15-55-48](https://user-images.githubusercontent.com/86077011/141289190-9c37a4b1-ad01-4ba2-a121-7b090a3cf97d.jpg)
+
 
 
 App I made while I was styding at FoxMinded Android course. It can invert strings and sentences using filters.
