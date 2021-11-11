@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="tab_text_1">Converter</string>
+    <string name="tab_text_2">Filter</string>
+    <string name="btn_convert_text">Convert</string>
+    <string name="tv_label_help_text_one">The program will reverse all words of input text and show result on the screen</string>
+    <string name="tv_label_help_text_two">This set of characters will be ignored in rotation</string>
+    <string name="acceptable_digits">0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ `~!@#$%^*()_-+=>|,.>\\/?"':;{[]}№</string>
+    <string name="default_filter_symbols">0123456789`~!@#$%^*()_-+=>|,.>\\/?"':;{[]}№</string>
+    <string name="et_main_hint">Type something</string>
+</resources>
